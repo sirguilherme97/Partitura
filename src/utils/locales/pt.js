@@ -1,0 +1,23 @@
+export default {
+    reading: "LEITURA",
+    listen: 'OUVIR',
+    practice: 'PRATICAR',
+    instruments: 'Instrumentos',
+    clef: 'Clave',
+    guitar: 'Violão',
+    language: 'Idioma',
+    points: 'Pontos',
+    best: 'Melhor',
+    gameover: 'Fim de Jogo',
+    help_read: 'Neste modo, você pratica a leitura de partitura, a primeira nota é um dó, ela utiliza uma linha auxiliar, a cada linha existem duas notas, uma nota na linha e outra entre a linha',
+    help_listen: 'Neste modo, você praticará seu ouvido, soará uma nota e você deverá acertá-la; Você pode apertar no ouvido caso queira ouvir a nota novamente; Acerte e ganhe pontos antes que seus corações se quebrem',
+    help_practice: 'Teste os recursos ;)',
+    A: 'Lá',
+    B: 'Si',
+    C: 'Dó',
+    D: 'Ré',
+    E: 'Mi',   
+    F: 'Fá',
+    G: 'Sol',
+  };
+  
